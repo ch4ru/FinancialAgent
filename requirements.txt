@@ -6,3 +6,7 @@ phidata
 yfinance
 python-dotenv
 openai
+sqlalchemy
+psycopg[binary]
+pgvector
+pypdf

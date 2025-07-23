@@ -33,6 +33,7 @@ financialAgent = Agent(
 )
 
 multi_ai_agent = Agent(
+    model = Groq(id="llama-3.1-70b-versatile"),
     name="Multi AI Agent",
     team=[
         webSearchAgent, financialAgent],

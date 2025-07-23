@@ -1,4 +1,4 @@
-#!c:\users\signc\onedrive\desktop\transition\krish\venv\scripts\python.exe
+#!c:\users\signc\onedrive\desktop\krish\venv\scripts\python.exe
 
 import datetime
 import os
